@@ -1,0 +1,19 @@
+like wise the state works 
+
+[count,setCOunt] = usestate(0)
+
+like wise the above hook
+
+recoil provides same hook which is => useRecoilState
+
+
+its functionalites is also same , one provides the current value and another one used to updates the value .
+
+2) hook which is useRecoilValue
+
+this hook used to get just the value , 
+when you don't have to update the value 
+
+3) useSetRecoilValue
+
+one updating the value 
